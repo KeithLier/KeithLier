@@ -2,7 +2,7 @@
 ### Hi I am Keith
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeithLier&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KeithLier&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=ffffff&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeithLier&layout=compact" /> 
 </p>
 
